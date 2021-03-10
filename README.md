@@ -7,7 +7,17 @@
 ### Examples:
 
 * Dark Red Theme
+
+<p align="center">
 <img src="dark-red-teleport-theme.gif">
 
+<br>
+<img src="exemple-Dark-red.gif" width="800px">
+</p>
+<br>
+
 * Light Blue Theme
+
+<p align="center">
 <img src="light-blues-teleport-theme.gif">
+</p>
