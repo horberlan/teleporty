@@ -4,7 +4,7 @@
 
 
 
-### Exemples:
+### Examples:
 
 * Dark Red Theme
 <img src="dark-red-teleport-theme.gif">
