@@ -1,5 +1,6 @@
+<p align="center"><img src="Teleport-theme-Dark-red/default.svg" height="125px"><p>
 <h1 align="center"> Teleport Theme for Plank</h1>
-<p align="center"> Teleport theme is a variation for <a href="https://launchpad.net/plank">Plank Desktop Dock </a> </p>
+<p align="center"> Teleport theme is a variation Dock for <a href="https://launchpad.net/plank">Plank Desktop</a> </p>
 
 
 
