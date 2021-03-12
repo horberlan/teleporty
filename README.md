@@ -19,3 +19,9 @@
 <p align="center">
 <img src="light-blues-teleport-theme.gif">
 </p>
+
+* Light Pink Theme
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/horberlan/Teleport-theme/main/Teleport-theme-Pink/pink-ex.gif">
+</p>
