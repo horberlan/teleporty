@@ -4,6 +4,14 @@
   <h1 align="center"> Teleport Theme for Plank </h1> 
 <p align="center"> Teleport theme is a variation Dock for <a href="https://launchpad.net/plank">Plank Desktop</a> </p>
 
+### Install:
+* Make sure you already have Plank installed or run ``` sudo apt-get install plank```
+
+```Shell
+git clone https://github.com/horberlan/Teleport-theme.git
+cd Teleport-theme/
+sh install.sh 
+```
 
 
 ### Examples:
