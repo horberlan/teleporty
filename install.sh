@@ -6,11 +6,21 @@ case "$asr" in
     [yY][eE][sS]|[yY]|"")
 
     echo "Copying themes..."
-    cp -Ri ./Teleport-theme-Dark-red $HOME/.local/share/plank/themes &&
-    cp -Ri ./Teleport-theme-Light-Blue $HOME/.local/share/plank/themes &&
-    cp -Ri ./Teleport-theme-Pink $HOME/.local/share/plank/themes
 
-    echo "Done"
+    PLANKDIR="$HOME/.local/share/plank/themes"
+
+    if [ -d $PLANKDIR ]; then
+		cp -Ri ./Teleport-theme-Dark-red $PLANKDIR &&
+		cp -Ri ./Teleport-theme-Light-Blue $PLANKDIR &&
+		cp -Ri ./Teleport-theme-Pink $PLANKDIR
+		echo "Done"
+	else
+		echo "Could not find $PLANKDIR"
+		echo "Please ensure Plank Dock is installed"
+		echo "For debian-based systems, install with 'sudo apt install plank'"
+		exit 1
+	fi
+    
 
     ;;
 *)
