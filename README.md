@@ -19,7 +19,7 @@ sh install.sh
 * Dark Red Theme
 
 <p align="center">
-  <img src="dark-red-teleport-theme.gif">
+  <img src="assets/dark-red-teleport-theme.gif">
 <!--<img src="exemple-Dark-red.gif" width="800px"> -->
 </p>
 <br>
@@ -27,7 +27,7 @@ sh install.sh
 * Light Blue Theme
 
 <p align="center">
-  <img src="light-blues-teleport-theme.gif">
+  <img src="assets/light-blues-teleport-theme.gif">
 </p>
 
 * Light Pink Theme
