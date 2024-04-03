@@ -12,11 +12,11 @@ case "$answer" in
 
         if [ -d "$PLANKDIR" ]; then
             echo "Plank directory found"
-            cp -Ri ./Teleport-theme-Dark-red "$PLANKDIR" &&
+            cp -Ri ./theme-Dark-red "$PLANKDIR" &&
             echo "Dark-red theme copied"
-            cp -Ri ./Teleport-theme-Light-Blue "$PLANKDIR" &&
+            cp -Ri ./theme-Light-Blue "$PLANKDIR" &&
             echo "Light-Blue theme copied"
-            cp -Ri ./Teleport-theme-Pink "$PLANKDIR"
+            cp -Ri ./theme-Pink "$PLANKDIR"
             echo "Pink theme copied"
             echo "Done"
         else
