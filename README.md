@@ -26,5 +26,5 @@ sh install.sh
 * Light Pink Theme
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/horberlan/Teleport-theme/main/Teleport-theme-Pink/pink-ex.gif">
+  <img src="theme-pink/pink-ex.gif">
 </p>
