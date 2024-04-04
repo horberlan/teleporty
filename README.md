@@ -1,21 +1,14 @@
-<!-- ------------------------------------------------------------------------------------
-     ------------------------------------------------------------------------------------->
-<p align="center"><img src="Teleport-theme-Dark-red/default.svg" height="125px"><p>
-  <h1 align="center"> Teleporty Theme for Plank </h1> 
+<h1 align="center"> Teleporty Theme for Plank </h1> 
 <p align="center"> Teleporty theme is a variation Dock for <a href="https://launchpad.net/plank">Plank Desktop</a> </p>
 
 ### Install:
-* Make sure you already have Plank installed or run ``` sudo apt-get install plank```
+* Make sure you already have Plank installed or run ```sudo apt-get install plank```
 
 ```Shell
 git clone https://github.com/horberlan/teleporty.git
 cd teleporty/
 sh install.sh 
 ```
-
-
-### Examples:
-
 * Dark Red Theme
 
 <p align="center">
