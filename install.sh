@@ -1,6 +1,6 @@
 #!/bin/bash
 
-read -p "Do you want to install Teleport Theme [Y/n]?" answer
+read -p "Do you want to install Teleporty Theme [Y/n]?" answer
 echo "Answer: $answer"
 
 case "$answer" in
@@ -12,12 +12,14 @@ case "$answer" in
 
         if [ -d "$PLANKDIR" ]; then
             echo "Plank directory found"
-            cp -Ri ./theme-Dark-red "$PLANKDIR" &&
+            cp -Ri ./theme-dark-red "$PLANKDIR" &&
             echo "Dark-red theme copied"
-            cp -Ri ./theme-Light-Blue "$PLANKDIR" &&
+            cp -Ri ./theme-light-blue "$PLANKDIR" &&
             echo "Light-Blue theme copied"
             cp -Ri ./theme-Pink "$PLANKDIR"
             echo "Pink theme copied"
+            cp -Ri ./theme-mint "$PLANKDIR"
+            echo "Mint theme copied"
             echo "Done"
         else
             echo "Could not find $PLANKDIR"
