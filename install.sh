@@ -16,7 +16,7 @@ case "$answer" in
             echo "Dark-red theme copied"
             cp -Ri ./theme-light-blue "$PLANKDIR" &&
             echo "Light-Blue theme copied"
-            cp -Ri ./theme-Pink "$PLANKDIR"
+            cp -Ri ./theme-pink "$PLANKDIR"
             echo "Pink theme copied"
             cp -Ri ./theme-mint "$PLANKDIR"
             echo "Mint theme copied"
